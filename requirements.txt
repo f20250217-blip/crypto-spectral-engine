@@ -1,0 +1,7 @@
+ccxt
+numpy
+pandas
+matplotlib
+scipy
+plotly
+kaleido
